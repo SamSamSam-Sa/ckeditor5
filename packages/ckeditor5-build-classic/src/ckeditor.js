@@ -84,18 +84,13 @@ ClassicEditor.defaultConfig = {
 			'redo'
 		]
 	},
-	image: {
+	image: {		
 		toolbar: [
 			'imageStyle:full',
 			'imageStyle:side',
 			'|',
 			'imageTextAlternative'
-		],
-		upload: {
-			panel: {
-				items: [ 'insertImageViaUrl' ]
-			}
-		}
+		]
 	},
 	table: {
 		contentToolbar: [
